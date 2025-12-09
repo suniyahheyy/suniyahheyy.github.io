@@ -3,7 +3,7 @@
 
 ---
 # <img width="200" height="90" alt="Screenshot 2025-12-08 201020" src="https://github.com/user-attachments/assets/6821c15a-5572-4aed-bcc9-489026c13004" /> 
-# $${\color{\#E91E63} \text{Suniyah Esey}}$$ 
+# $${\color{\#FF69B4} \text{Suniyah Esey}}$$ 
 # <img width="200" height="90" alt="Screenshot 2025-12-08 201020" src="https://github.com/user-attachments/assets/6821c15a-5572-4aed-bcc9-489026c13004" />
 
 
