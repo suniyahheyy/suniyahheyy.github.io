@@ -62,7 +62,7 @@ Location: Elizabeth City, NC
 **Expected Graduation:** May 2028
 
 
-## Technical Skills and Tools  <img width="70" height="70" alt="Screenshot 2025-12-08 195216" src="https://github.com/user-attachments/assets/e9f464c2-937c-44cd-a56f-fc1cc6274cf5" />
+## Technical Skills and Tools  <img width="80" height="80" alt="Screenshot 2025-12-08 195216" src="https://github.com/user-attachments/assets/e9f464c2-937c-44cd-a56f-fc1cc6274cf5" />
 
 
 **Programming Concepts**: Object-Oriented Programming (OOP), Data Structures
