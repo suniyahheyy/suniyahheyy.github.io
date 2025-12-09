@@ -15,7 +15,7 @@
 
 
 
-## Contact & Links: <img width="50" height="50" alt="Screenshot 2025-12-08 195003" src="https://github.com/user-attachments/assets/d3d8f494-c626-46f0-ae9f-ac688bd24531" />
+## Contact & Links: <img width="30" height="50" alt="Screenshot 2025-12-08 195003" src="https://github.com/user-attachments/assets/d3d8f494-c626-46f0-ae9f-ac688bd24531" />
 
 
 Email: snesey235@students.ecsu.edu
@@ -62,7 +62,7 @@ Location: Elizabeth City, NC
 **Expected Graduation:** May 2028
 
 
-## Technical Skills and Tools  <img width="50" height="50" alt="Screenshot 2025-12-08 195216" src="https://github.com/user-attachments/assets/e9f464c2-937c-44cd-a56f-fc1cc6274cf5" />
+## Technical Skills and Tools  <img width="70" height="70" alt="Screenshot 2025-12-08 195216" src="https://github.com/user-attachments/assets/e9f464c2-937c-44cd-a56f-fc1cc6274cf5" />
 
 
 **Programming Concepts**: Object-Oriented Programming (OOP), Data Structures
