@@ -17,7 +17,7 @@
 
 
 
-## Contact & Links: <img width="30" height="50" alt="Screenshot 2025-12-08 195003" src="https://github.com/user-attachments/assets/d3d8f494-c626-46f0-ae9f-ac688bd24531" />
+## $${\color{\#FF69B4} \text{Contact & Links:}}$$ <img width="30" height="50" alt="Screenshot 2025-12-08 195003" src="https://github.com/user-attachments/assets/d3d8f494-c626-46f0-ae9f-ac688bd24531" />
 
 
 Email: snesey235@students.ecsu.edu
@@ -31,7 +31,7 @@ Location: Elizabeth City, NC
 
 
 
-## Skills & Tehnologies 
+## $${\color{\#FF69B4} \text{Skills & Technologiess:}}$$
 
 **Programming Languages**
 **Core**: Python
@@ -40,7 +40,7 @@ Location: Elizabeth City, NC
 
 
 
-## Professional Development & Education
+## $${\color{\#FF69B4} \text{Professional Development & Education:}}$$
 
 ### Program Participation & Certifications
 
@@ -51,12 +51,12 @@ Location: Elizabeth City, NC
 **Design and Communication Training:** Completed CANVA Design Skills for Students training, Completed Slack Profile setup and professional introduction.
 
 
-### Techincal Research and Communication
+### $${\color{\#FF69B4} \text{Techincal Research and Communication:}}$$
 
 **SGCI/SGX3 Webinar Reviews:** Wrote detailed, 2-page reviews/summaries on technical topics, including: Resource Providers of Science Gateways webinar. Turn Your Data Portal into a Science Gateway With Globus Compute webinar.
 
 
-### University Education
+### $${\color{\#FF69B4} \text{University Education:}}$$ 
 
 **Elizabeth City State University** (Elizabeth City, NC)
 **Degree:** Bachelor of Science in Computer Science
@@ -64,7 +64,7 @@ Location: Elizabeth City, NC
 **Expected Graduation:** May 2028
 
 
-## Technical Skills and Tools  <img width="80" height="80" alt="Screenshot 2025-12-08 195216" src="https://github.com/user-attachments/assets/e9f464c2-937c-44cd-a56f-fc1cc6274cf5" />
+## $${\color{\#FF69B4} \text{Technical Skills and Tools:}}$$  <img width="80" height="80" alt="Screenshot 2025-12-08 195216" src="https://github.com/user-attachments/assets/e9f464c2-937c-44cd-a56f-fc1cc6274cf5" />
 
 
 **Programming Concepts**: Object-Oriented Programming (OOP), Data Structures
@@ -74,14 +74,13 @@ Location: Elizabeth City, NC
 **Soft Skills**: Problem Solving, Adaptability, Detailed Transaction Processing 
 
 
-## Languages 
-
+## $${\color{\#FF69B4} \text{Languages:}}$$
 **English**: Fluent 
 **Amharic**: Conversational 
 **Japanese**: Basics 
 
 
-## Experience
+## $${\color{\#FF69B4} \text{Experience:}}$$ 
 
 | February 2024 - August 2024 | Food Lion Sales Associate |
 | ------ | ----------- |
