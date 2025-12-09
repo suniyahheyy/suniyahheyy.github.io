@@ -98,3 +98,10 @@ Location: Elizabeth City, NC
 | Networking: | Actively networked with photographers, designers, and other industry professionals to build connections and explore opportunities. |
 
 
+| October 2025 - Current | MCSET Department Desk Assistant |
+| ------ | ----------- |
+| Administrative and Project Support:   | Executed essential administrative and clerical tasks, including preparing and maintaining departmental documents, organizing mail and package deliveries, and supporting staff with various projects. |
+| Customer Service and Resource Referral: | Provided exceptional front-line customer service and resource referral for the MCSET (Mathematics, Computer Science, Engineering, and Technology) Department, greeting students, faculty, and visitors. |
+| Front Desk and Operations Management:   | Managed all front desk operations, including answering a multi-line phone system, directing inquiries, scheduling appointments for department faculty, and maintaining a professional and organized reception area. |
+
+
