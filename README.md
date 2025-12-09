@@ -11,7 +11,7 @@
 
 
 
-## $${\color{#FF69B4 \text{Profile Summary}
+## $${\color{\#FF69B4 \text{Profile Summary}$$
 #### I am a highly driven Computer Science student exploring creative expression through modeling while developing a strong foundation in programming and problem-solving. I thrive on diving deep into code, exploring new technologies, and bringing a positive, adaptable mindset to every challenge. I am committed to leveraging both my technical skills and creative passions to build innovative solutions. My journey into Computer Science is driven by curiosity and a desire to build. While currently focusing on academic coursework in Programming 1 & 2 and mastering foundational languages like Python, I am constantly exploring the practical application of development tools like Git and GitHub. I excel at detailed, accurate work, a skill refined through high-volume roles, which translates into a meticulous approach to coding and debugging. I'm eager to connect with innovative teams where I can leverage my technical aptitude to deliver clean, scalable code.
 
 
