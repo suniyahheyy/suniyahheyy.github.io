@@ -32,7 +32,7 @@ Location: Elizabeth City, NC
 
 
 
-## $${\color{\#FF69B4} \text{Skills and Technologiess:}}$$
+## $${\color{\#FF69B4} \text{Skills and Technologies:}}$$
 
 **Programming Languages**
 **Core**: Python
