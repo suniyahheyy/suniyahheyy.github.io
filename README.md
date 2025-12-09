@@ -31,7 +31,7 @@ Location: Elizabeth City, NC
 
 
 
-## $${\color{\#FF69B4} \text{Skills & Technologiess:}}$$
+## $${\color{\#FF69B4} \text{Skills and Technologiess:}}$$
 
 **Programming Languages**
 **Core**: Python
@@ -40,7 +40,7 @@ Location: Elizabeth City, NC
 
 
 
-## $${\color{\#FF69B4} \text{Professional Development & Education:}}$$
+## $${\color{\#FF69B4} \text{Professional Development and Education:}}$$
 
 ### Program Participation & Certifications
 
