@@ -1,4 +1,5 @@
-<img width="421" height="530" alt="Screenshot_8-12-2025_181429_" src="https://github.com/user-attachments/assets/2f0488cb-4e39-454b-a0f6-2d515137decd" />
+<img width="549" height="603" alt="image" src="https://github.com/user-attachments/assets/2aaedc61-ff7e-49e6-b15a-4de04f2f5ddf" />
+
 
 ---
 
@@ -14,7 +15,7 @@
 
 
 
-## Contact & Links: <img width="50" height="50" alt="Screenshot 2025-12-08 184324" src="https://github.com/user-attachments/assets/f4722c18-763b-4173-a99d-b63101da3ba7" />
+## Contact & Links: <img width="50" height="50" alt="Screenshot 2025-12-08 195003" src="https://github.com/user-attachments/assets/d3d8f494-c626-46f0-ae9f-ac688bd24531" />
 
 
 Email: snesey235@students.ecsu.edu
@@ -61,7 +62,7 @@ Location: Elizabeth City, NC
 **Expected Graduation:** May 2028
 
 
-## Technical Skills and Tools  <img width="32" height="45" alt="Screenshot 2025-12-08 182256" src="https://github.com/user-attachments/assets/410faa44-cb81-44b2-bff5-e533da293c10" />
+## Technical Skills and Tools  <img width="50" height="50" alt="Screenshot 2025-12-08 195216" src="https://github.com/user-attachments/assets/e9f464c2-937c-44cd-a56f-fc1cc6274cf5" />
 
 
 **Programming Concepts**: Object-Oriented Programming (OOP), Data Structures
