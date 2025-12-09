@@ -69,7 +69,9 @@ Location: Elizabeth City, NC
 
 
 **Programming Concepts**: Object-Oriented Programming (OOP), Data Structures
+
 **Developer Tools**: Git, Github
+
 **Relevant Coursework/Concepts**: Programming 1, Programming 2, Data Structures and Algorthims 
 
 **Soft Skills**: Problem Solving, Adaptability, Detailed Transaction Processing 
