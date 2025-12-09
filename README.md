@@ -3,7 +3,8 @@
 
 ---
 
-# Suniyah Esey
+# Suniyah Esey <img width="90" height="90" alt="Screenshot 2025-12-08 200316" src="https://github.com/user-attachments/assets/df5ecce0-21f6-4137-8d58-ee57452050ec" />
+
 
 
 
