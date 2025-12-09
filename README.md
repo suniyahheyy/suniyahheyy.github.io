@@ -95,3 +95,5 @@ Location: Elizabeth City, NC
 | Communication & Presentation:   | Represented the modeling troupe in various appearances, developing diverse styles and concepts, and refining runway walking techniques. |
 | Networking: | Actively networked with photographers, designers, and other industry professionals to build connections and explore opportunities. |
 
+<h1 style="color: blue;">Suniyah Esey</h1>
+<p style="color: #FF5733;">This paragraph will be orange.</p>
