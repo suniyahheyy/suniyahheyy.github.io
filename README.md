@@ -18,7 +18,7 @@
 
 
 
-## $Contact and Links: <img width="30" height="50" alt="Screenshot 2025-12-08 195003" src="https://github.com/user-attachments/assets/d3d8f494-c626-46f0-ae9f-ac688bd24531" />
+## Contact and Links: <img width="30" height="50" alt="Screenshot 2025-12-08 195003" src="https://github.com/user-attachments/assets/d3d8f494-c626-46f0-ae9f-ac688bd24531" />
 
 
 Email: snesey235@students.ecsu.edu
