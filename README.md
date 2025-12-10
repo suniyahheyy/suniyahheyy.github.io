@@ -3,7 +3,7 @@
 
 ---
 # <img width="200" height="90" alt="Screenshot 2025-12-08 201020" src="https://github.com/user-attachments/assets/6821c15a-5572-4aed-bcc9-489026c13004" /> 
-# $${\color{\#FF69B4} \text{Suniyah Esey}}$$ 
+# Suniyah Esey
 # <img width="200" height="90" alt="Screenshot 2025-12-08 201020" src="https://github.com/user-attachments/assets/6821c15a-5572-4aed-bcc9-489026c13004" />
 
 
@@ -12,13 +12,13 @@
 
 
 
-## $${\color{\#FF69B4} \text{Profile Summary}}$$
+## Profile Summary
 #### I am a highly driven Computer Science student exploring creative expression through modeling while developing a strong foundation in programming and problem-solving. I thrive on diving deep into code, exploring new technologies, and bringing a positive, adaptable mindset to every challenge. I am committed to leveraging both my technical skills and creative passions to build innovative solutions. My journey into Computer Science is driven by curiosity and a desire to build. While currently focusing on academic coursework in Programming 1 & 2 and mastering foundational languages like Python, I am constantly exploring the practical application of development tools like Git and GitHub. I excel at detailed, accurate work, a skill refined through high-volume roles, which translates into a meticulous approach to coding and debugging. I'm eager to connect with innovative teams where I can leverage my technical aptitude to deliver clean, scalable code.
 
 
 
 
-## $${\color{\#FF69B4} \text{Contact and Links:}}$$ <img width="30" height="50" alt="Screenshot 2025-12-08 195003" src="https://github.com/user-attachments/assets/d3d8f494-c626-46f0-ae9f-ac688bd24531" />
+## $Contact and Links: <img width="30" height="50" alt="Screenshot 2025-12-08 195003" src="https://github.com/user-attachments/assets/d3d8f494-c626-46f0-ae9f-ac688bd24531" />
 
 
 Email: snesey235@students.ecsu.edu
@@ -32,7 +32,7 @@ Location: Elizabeth City, NC
 
 
 
-## $${\color{\#FF69B4} \text{Skills and Technologies:}}$$
+## Skills and Technologies:
 
 **Programming Languages**
 **Core**: Python
@@ -41,7 +41,7 @@ Location: Elizabeth City, NC
 
 
 
-## $${\color{\#FF69B4} \text{Professional Development and Education:}}$$
+## Professional Development and Education:
 
 ### Program Participation & Certifications
 
@@ -52,12 +52,12 @@ Location: Elizabeth City, NC
 **Design and Communication Training:** Completed CANVA Design Skills for Students training, Completed Slack Profile setup and professional introduction.
 
 
-### $${\color{\#FF69B4} \text{Techincal Research and Communication:}}$$
+### Techincal Research and Communication:
 
 **SGCI/SGX3 Webinar Reviews:** Wrote detailed, 2-page reviews/summaries on technical topics, including: Resource Providers of Science Gateways webinar. Turn Your Data Portal into a Science Gateway With Globus Compute webinar.
 
 
-### $${\color{\#FF69B4} \text{University Education:}}$$ 
+### University Education:
 
 **Elizabeth City State University** (Elizabeth City, NC)
 **Degree:** Bachelor of Science in Computer Science
@@ -65,7 +65,7 @@ Location: Elizabeth City, NC
 **Expected Graduation:** May 2028
 
 
-## $${\color{\#FF69B4} \text{Technical Skills and Tools:}}$$  <img width="80" height="80" alt="Screenshot 2025-12-08 195216" src="https://github.com/user-attachments/assets/e9f464c2-937c-44cd-a56f-fc1cc6274cf5" />
+## Technical Skills and Tools:  <img width="80" height="80" alt="Screenshot 2025-12-08 195216" src="https://github.com/user-attachments/assets/e9f464c2-937c-44cd-a56f-fc1cc6274cf5" />
 
 
 **Programming Concepts**: Object-Oriented Programming (OOP), Data Structures
@@ -77,13 +77,13 @@ Location: Elizabeth City, NC
 **Soft Skills**: Problem Solving, Adaptability, Detailed Transaction Processing 
 
 
-## $${\color{\#FF69B4} \text{Languages:}}$$
+## Languages:
 **English**: Fluent 
 **Amharic**: Conversational 
 **Japanese**: Basics 
 
 
-## $${\color{\#FF69B4} \text{Experience:}}$$ 
+## Experience: 
 
 | February 2024 - August 2024 | Food Lion Sales Associate |
 | ------ | ----------- |
