@@ -60,6 +60,7 @@ Location: Elizabeth City, NC
 ### University Education:
 
 **Elizabeth City State University** (Elizabeth City, NC)
+
 **Degree:** Bachelor of Science in Computer Science
 
 **Expected Graduation:** May 2028
