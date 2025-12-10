@@ -23,7 +23,7 @@
 
 Email: snesey235@students.ecsu.edu
 
-LinkedIn: https://www.linkedin.com/in/suniyah-esey-51a64a374/ 
+LinkedIn: https://www.linkedin.com/in/suniyah-esey-51a64a374/  
 
 GitHub Portfolio: suniyahhey.github.io
 
