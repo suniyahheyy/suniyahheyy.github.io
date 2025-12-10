@@ -80,8 +80,11 @@ Location: Elizabeth City, NC
 
 ## Languages:
 **English**: Fluent 
+
 **Amharic**: Conversational 
+
 **Japanese**: Basics 
+
 
 
 ## Experience: 
